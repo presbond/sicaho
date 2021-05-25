@@ -1,2 +1,2 @@
 # sicaho
-Repositorio del sistema ce control de carga horaria
+Repositorio del sistema de control de carga horaria
